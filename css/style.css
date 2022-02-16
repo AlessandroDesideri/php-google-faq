@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    padding: 100px 0;
+}
+p {
+    padding: 20px 0;
+}
+
+.box {
+    padding-bottom: 70px;
+}
+
+li {
+    margin-left: 18px;
+    padding-left: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.box-list {
+    margin: 40px 0;
+}
